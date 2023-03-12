@@ -7,7 +7,7 @@ Overall, my analysis of Netflix using Tableau allowed me to gain a deeper unders
 
 ![image](https://user-images.githubusercontent.com/117584708/224552317-6c2fb635-fd17-4570-9269-5d204bd6ca2d.png)
 
-🧾 Download dataset for dashboard at [HR DATA](https://github.com/Chikkuduakanksha/Netflix_Dashboard/blob/main/netflix_titles.csv)
+🧾 Download dataset for dashboard at [DATA_SET](https://github.com/Chikkuduakanksha/Netflix_Dashboard/blob/main/netflix_titles.csv)
 
 
 All of my projects are available at [Projects](https://github.com/Chikkuduakanksha?tab=repositories)
