@@ -13,5 +13,9 @@ Overall, my analysis of Netflix using Tableau allowed me to gain a deeper unders
 All of my projects are available at [Projects](https://github.com/Chikkuduakanksha?tab=repositories)
 
  
+Public [Tableau](https://public.tableau.com/app/profile/akanksha.chikkudu/viz/NetflixDashboard-2023/Netflix)
 
+ <p>&nbsp;</p>
+ 
+ 
 **HAPPY LEARNING**
